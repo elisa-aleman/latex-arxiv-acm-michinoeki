@@ -1,0 +1,236 @@
+\begin{thebibliography}{10}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \def\href#1#2{#2} \def\path#1{#1}\fi
+
+\bibitem{jones2009}
+T.~Jones, S.~Nagata, M.~Nakajima, K.~Masuyama, Prefectural branding in {Japan}
+  – tourism, national parks and the {Shinshu} brand, Place Branding and
+  Public Diplomacy 5~(3) (2009) 192--201.
+\newblock \href {http://dx.doi.org/10.1057/pb.2009.13}
+  {\path{doi:10.1057/pb.2009.13}}.
+
+\bibitem{yokota2006-a}
+T.~Yokota, Guidelines for roadside station – michinoeki, Tech. rep., World
+  Bank, Washington DC, United States of America (2006).
+
+\bibitem{michinoeki}
+\href{https: //www.michi-no-eki.jp/about/english}{What are michi-no-eki?
+  michinoeki official website}.
+\newline\urlprefix\url{https: //www.michi-no-eki.jp/about/english}
+
+\bibitem{ogawa2001}
+N.~Ogawa, S.~Suzuki, An essay on type classification of “michinoekis” in
+  {Hokkaido} and characteristic analysis, Studies in Regional Science 32~(1)
+  (2001) 369--380.
+\newblock \href {http://dx.doi.org/10.2457/srs.32.369}
+  {\path{doi:10.2457/srs.32.369}}.
+
+\bibitem{lee2016}
+Y.-C. Lee, Y.-J. Lee, A study on the improvement of roadside agricultural
+  product shops, Journal of Korean Society of Rural Planning 22~(1) (2016)
+  101--111.
+\newblock \href {http://dx.doi.org/10.7851/ksrp. 2016.22.1.101}
+  {\path{doi:10.7851/ksrp. 2016.22.1.101}}.
+
+\bibitem{yokota2006-b}
+T.~Yokota, N.~Kotaro, Introduction of roadside stations and their dissemination
+  in {Asia}, in: Transportation Research Board 85th Annual Meeting, Washington
+  DC, United States of America, 2006.
+
+\bibitem{ohe2013}
+Y.~Ohe, S.~Kurihara, Evaluating the complementary relationship between local
+  brand farm products and rural tourism: Evidence from {Japan}, Tourism
+  Management 35 (2013) 278--283.
+\newblock \href {http://dx.doi.org/10.1016/j.tourman.2012.07.003}
+  {\path{doi:10.1016/j.tourman.2012.07.003}}.
+
+\bibitem{ohe2008-a}
+Y.~Ohe, Characteristics and issues of rural tourism in {Japan}, WIT
+  Transactions on Ecology and the Environment 115 (2008) 12.
+\newblock \href {http://dx.doi.org/10.2495/ST080301}
+  {\path{doi:10.2495/ST080301}}.
+
+\bibitem{ohe2008-b}
+Y.~Ohe, \href{http://ageconsearch.umn.edu/record/43647}{Evaluating the
+  diversifying market for and viability of rural tourism activity in japan},
+  in: Proceedings of the 12th Congress of the European Association of
+  Agricultural Economists – EAAE 2008, Ghent, Belgium, 2008, pp. 1--12.
+\newline\urlprefix\url{http://ageconsearch.umn.edu/record/43647}
+
+\bibitem{depelsmacker2018}
+P.~D. Pelsmacker, S.~van Tilburg, C.~Holthof, Digital marketing strategies,
+  online reviews and hotel performance, International Journal of Hospitality
+  Management 72 (2018) 47--55.
+\newblock \href {http://dx.doi.org/10.1016/j.ijhm.2018.01.003}
+  {\path{doi:10.1016/j.ijhm.2018.01.003}}.
+
+\bibitem{chevalier2006}
+J.~Chevalier, D.~Mayzlin, The effect of word of mouth on sales: Online book
+  reviews, Journal of Marketing Research 43~(3) (2006) 345--354.
+\newblock \href {http://dx.doi.org/10.1509/jmkr.43.3.345}
+  {\path{doi:10.1509/jmkr.43.3.345}}.
+
+\bibitem{liu2006}
+Y.~Liu, Word of mouth for movies: Its dynamics and impact on box office
+  revenue, Journal of Marketing 70~(3) (2006) 74--89.
+\newblock \href {http://dx.doi.org/10.1509/jmkg.70.3.74}
+  {\path{doi:10.1509/jmkg.70.3.74}}.
+
+\bibitem{he2013}
+W.~He, S.~Zha, L.~Li, Social media competitive analysis and text mining: A case
+  study in the pizza industry, International Journal Of Information Management
+  22~(3) (2013) 464--472.
+\newblock \href {http://dx.doi.org/10.1016/j.ijinfomgt.2013.01.001}
+  {\path{doi:10.1016/j.ijinfomgt.2013.01.001}}.
+
+\bibitem{nonaka2012}
+H.~Nonaka, A.~Kobayashi, H.~Sakaji, Y.~Suzuki, H.~Sakao, S.~Masuyama,
+  Extraction of the effect and the technology terms from a patent document
+  (theory and methodology), Journal of Japan Industrial Management Association
+  63~(2) (2012) 105--111.
+
+\bibitem{oconnor2010}
+B.~O'Connor, R.~Balasubramanyan, B.~Routledge, N.~Smith, From tweets to polls:
+  Linking text sentiment to public opinion time series, in: Proceedings Of The
+  Fourth International AAAI Conference On Weblogs And Social Media, 11(1-2),
+  2010, pp. 122--–129.
+
+\bibitem{Aleman2018ICAROB}
+E.~C. {Alem\'an Carre\'on}, H.~Nonaka, T.~Hiraoka, M.~Kumano, T.~Ito,
+  M.~Hirota, Emotional contribution analysis of online reviews, in: Proceedings
+  of The 2018 International Conference on Artificial Life and Robotics
+  (ICAROB2018), Vol.~23, Beppu, Japan, 2018, pp. 359--362.
+\newblock \href {http://dx.doi.org/10.5954/ICAROB.2018.OS5-3}
+  {\path{doi:10.5954/ICAROB.2018.OS5-3}}.
+
+\bibitem{Horino2017IEEM}
+H.~Horino, H.~Nonaka, E.~C. {Alem\'an Carre\'on}, T.~Hiraoka, Development of an
+  entropy-based feature selection method and analysis of online reviews on real
+  estate, in: Proceedings from the 2017 IEEE International Conference on
+  Industrial Engineering \& Engineering Management (2017 IEEE IEEM), Singapore,
+  2017, pp. 2351--2355.
+\newblock \href {http://dx.doi.org/10.1109/IEEM.2017.8290312}
+  {\path{doi:10.1109/IEEM.2017.8290312}}.
+
+\bibitem{bollen2011}
+J.~Bollen, H.~Mao, X.~Zeng, Twitter mood predicts the stock market, Journal Of
+  Computational Science 2~(1) (2011) 1--8.
+\newblock \href {http://dx.doi.org/10.1016/j.jocs.2010.12.007}
+  {\path{doi:10.1016/j.jocs.2010.12.007}}.
+
+\bibitem{Aleman2017ISIS}
+E.~C. {Alem\'an Carre\'on}, H.~Nonaka, T.~Hiraoka, Analysis of {Chinese}
+  tourists in {Japan} by text mining of a hotel portal site, in: Proceedings
+  from The 18th International Symposium on Advanced Intelligent Systems
+  (ISIS2017), Daegu, South Korea, 2017, pp. 191--198.
+\newblock \href {http://dx.doi.org/10.6084/m9.figshare.7831853}
+  {\path{doi:10.6084/m9.figshare.7831853}}.
+
+\bibitem{nonaka2014icaicta}
+H.~Nonaka, S.~Kawano, T.~Hiraoka, T.~Ota, S.~Masuyama, Evaluating industrial
+  cluster by using spatial auto correlation of patent applications, in:
+  Proceedings of the 2014 International Conference of Advanced Informatics:
+  Concept, Theory and Application (ICAICTA), IEEE, 2014, pp. 181--184.
+
+\bibitem{nonaka2014itmc}
+H.~Nonaka, D.~Kubo, T.~H. Kimura, T.~Ota, S.~Masuyama, Correlation analysis
+  between financial data and patent score based on hits algorithm, in:
+  Proceedings of the IEEE Technology Management Conference (ITMC), IEEE,
+  Chicago, IL, USA, 2014, pp. 1--4.
+\newblock \href {http://dx.doi.org/10.1109/ITMC.2014.6918607}
+  {\path{doi:10.1109/ITMC.2014.6918607}}.
+
+\bibitem{nonaka2013}
+H.~Nonaka, S.~Kawano, K.~Anai, T.~Hiraoka, T.~Ota, S.~Masuyama, Assessment
+  method for technology development of an industrial cluster by using spatial
+  auto-correlation of patent applications, Hong Kong, China, 2013.
+
+\bibitem{nonaka2010}
+H.~Nonaka, A.~Kobayashi, H.~Sakaji, Y.~Suzuki, H.~Sakao, S.~Masuyama,
+  Extraction of the effect and the technology terms from a patent document, in:
+  Proceedings of the 40th International Conference on Computers and Industrial
+  Engineering (CIE40), Awaji-shima, Japan, 2010.
+
+\bibitem{sakao2009}
+H.~Sakao, H.~Nonaka, S.~Masuyama, Extraction of the effect and the technology
+  terms from a patent document, Transactions of the Japanese Society for
+  Artificial Intelligence 24~(6) (2009) 531--540.
+
+\bibitem{shimizu2014}
+S.~Shimizu, Lingam: Non-gaussian methods for estimating causal structures,
+  Behaviormetrika 41~(1) (2014) 65–--98.
+\newblock \href {http://dx.doi.org/10.2333/bhmk.41.65}
+  {\path{doi:10.2333/bhmk.41.65}}.
+
+\bibitem{kudo2004}
+T.~Kudo, K.~Yamamoto, Y.~Matsumoto,
+  \href{https://www.aclweb.org/anthology/W04-3230}{Applying conditional random
+  fields to japanese morphological analysis}, in: Proceedings of The 2004
+  conference on empirical methods in natural language processing, 2004, pp.
+  230--237.
+\newline\urlprefix\url{https://www.aclweb.org/anthology/W04-3230}
+
+\bibitem{shannon1948}
+C.~Shannon, A mathematical theory of communication, Bell System Technical
+  Journal 27~(3) (1948) 279--423.
+\newblock \href {http://dx.doi.org/10.1002/j.1538-7305.1948.tb01338.x}
+  {\path{doi:10.1002/j.1538-7305.1948.tb01338.x}}.
+
+\bibitem{cortes1995}
+C.~Cortes, V.~Vapnik, Support-vector networks, Machine Learning 20~(3) (1995)
+  273--297.
+\newblock \href {http://dx.doi.org/10.1007/bf00994018}
+  {\path{doi:10.1007/bf00994018}}.
+
+\bibitem{deng2007}
+W.~Deng, Using a revised importance–performance analysis approach: The case
+  of taiwanese hot springs tourism, Tourism Management 28~(5) (2007)
+  1274--1284.
+\newblock \href {http://dx.doi.org/10.1016/j.tourman.2006.07.010}
+  {\path{doi:10.1016/j.tourman.2006.07.010}}.
+
+\bibitem{koberl2016}
+J.~K\"oberl, F.~Prettenthaler, D.~N. Bird, Modelling climate change impacts on
+  tourism demand: A comparative study from {Sardinia} ({Italy}) and {Cap Bon}
+  ({Tunisia}), Science of The Total Environment 543 (2016) 1039–--1053.
+\newblock \href {http://dx.doi.org/10.1016/j.scitotenv.2015.03.099}
+  {\path{doi:10.1016/j.scitotenv.2015.03.099}}.
+
+\bibitem{thomas2017}
+R.~Thomas, N.~Ormerod, The (almost) imperceptible impact of tourism research on
+  policy and practice, Tourism Management 62 (2017) 379--–389.
+\newblock \href {http://dx.doi.org/10.1016/j.tourman.2017.02.009}
+  {\path{doi:10.1016/j.tourman.2017.02.009}}.
+
+\bibitem{brida2017}
+J.~Brida, O.~Tokarchuk, Tourists’ spending and adherence to shopping plans:
+  The case of the christmas market in {Merano}, {Italy}, Tourism Management 61
+  (2017) 55--62.
+\newblock \href {http://dx.doi.org/10.1016/ j.tourman.2017.01.016}
+  {\path{doi:10.1016/ j.tourman.2017.01.016}}.
+
+\bibitem{pappas2017}
+N.~Pappas, A.~Papatheodorou, Tourism and the refugee crisis in {Greece}:
+  Perceptions and decision-making of accommodation providers, Tourism
+  Management 63 (2017) 31–--41.
+\newblock \href {http://dx.doi.org/10.1016/j.tourman.2017.06.005}
+  {\path{doi:10.1016/j.tourman.2017.06.005}}.
+
+\bibitem{jutten1991}
+C.~Jutten, J.~Herault, Blind separation of sources, part i: An adaptive
+  algorithm based on neuromimetic architecture, Signal processing 24~(1) (1991)
+  1--10.
+
+\bibitem{hyvarinen2001}
+A.~Hyv\"arinen, J.~Karhunen, E.~Oja, Independent component analysis,
+  Wiley-Interscience, New York, United States of America, 2001.
+
+\bibitem{shimizu2006}
+S.~Shimizu, P.~Hoyer, A.~Hyv\"arinen, A.~Kerminen, A linear non-gaussian
+  acyclic model for causal discovery, Journal of Machine Learning Research 7
+  (2006) 2003--2030.
+
+\end{thebibliography}
